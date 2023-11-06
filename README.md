@@ -12,5 +12,5 @@ Example:
 
 How to use:
 - Download and include this file in your PHP project ```require_once('motd-parser.php')```, or copy and add this function to that file.
-- Wrap your Map or MOTD text in this function ```$hostname = parseMinecraftText('§r§fᴄʟᴀɴs§r    §r§b§k§li§r§d§k§li§r§b§k§li§r§b §r§d#1 ᴘɪxᴇʟᴍᴏɴ ɴᴇᴛᴡᴏʀᴋ §r§b§k§li§r§d§k§li§r§b§k§li§r§b    §r§fǫᴜᴇsᴛs');```
+- Wrap your Map or MOTD text in this function ```$map = parseMinecraftText('§r§fᴄʟᴀɴs§r    §r§b§k§li§r§d§k§li§r§b§k§li§r§b §r§d#1 ᴘɪxᴇʟᴍᴏɴ ɴᴇᴛᴡᴏʀᴋ §r§b§k§li§r§d§k§li§r§b§k§li§r§b    §r§fǫᴜᴇsᴛs');```
 - Profit
