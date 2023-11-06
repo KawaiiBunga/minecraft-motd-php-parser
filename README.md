@@ -6,7 +6,6 @@ This function returns Minecraft MOTD/Map text that is given to it and displays i
 Example:
 - Map text returned from a server query (Unformatted):
 ![image](https://github.com/KawaiiBunga/minecraft-motd-php-parser/assets/107073565/a7a02dcb-da32-468d-8332-ce0afd6040fa)
-
 - Map text parsed with this function and placed in a bootstrap bubble:
 ![image](https://github.com/KawaiiBunga/minecraft-motd-php-parser/assets/107073565/9e73188e-b2f7-4c51-a2b5-688b939d22a2)
 
